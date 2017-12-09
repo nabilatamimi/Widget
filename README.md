@@ -1,3 +1,20 @@
+# Widget
+
+![Screenshot](https://github.com/nabilatamimi/Widget/blob/master/Screenshot_20171203_102332%5B1%5D.jpg)
+![Screenshot](https://github.com/nabilatamimi/Widget/blob/master/Screenshot_20171203_102335%5B1%5D.jpg)
+![Screenshot](https://github.com/nabilatamimi/Widget/blob/master/Screenshot_20171204_213145%5B1%5D.jpg)
+![Screenshot](https://github.com/nabilatamimi/Widget/blob/master/Screenshot_20171206_224421%5B1%5D.jpg)
+![Screenshot](https://github.com/nabilatamimi/Widget/blob/master/Screenshot_20171207_225639%5B1%5D.jpg)
+![Screenshot](https://github.com/nabilatamimi/Widget/blob/master/Screenshot_20171209_201255%5B1%5D.png)<br><br>
+
+Judul Project : My Garden. Widget. <br>
+Nama : Nabila Tamimi <br>
+Kelas : XII RPL 3 <br>
+Absen : 25 <br>
+NIS : 4779/1496.070 <br> 
+Sekolah : SMK Telkom Malang <br>
+
+
 # My Garden
 Android AppWidgets lesson
 
